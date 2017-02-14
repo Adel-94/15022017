@@ -1,0 +1,247 @@
+.main{
+    width: 1800;
+    margin: 0 auto;
+}
+.column1 .img1 {
+    float: left;
+    width: 150;
+    height: 150;
+    background: gray;
+}
+ .column1 .img2{
+     float: left;
+     width: 150;
+    height: 150;
+    background: green;
+ }
+ .column1 .img3{
+     float: left;
+     width: 150;
+    height: 150;
+    background: black;
+ }
+.column1 .img4{
+    float: left;
+     width: 150;
+    height: 150;
+    background: pink;
+ }
+ .column1 .img5{
+     float: left;
+     width: 150;
+    height: 150;
+    background: blue;
+ }
+ .column1 .img6{
+     float: left;
+     width: 150;
+    height: 150;
+    background: aqua;
+ }
+ .column1 .img7{
+     float: left;
+     width: 150;
+    height: 150;
+    background: yellow;
+ }
+ .column1 .img8{
+     float: left;
+     width: 150;
+    height: 150;
+    background: lightcoral;
+ }
+ .column1 .img9{
+     float: left;
+     width: 150;
+    height: 150;
+    background: darkviolet;
+ }
+ .column1 .img10{
+     float: left;
+     width: 150;
+    height: 220;
+    background: gray;
+ }
+ .column1 .img11{
+     float: left;
+     width: 150;
+    height: 140;
+    background: hotpink;
+ }
+ .column1 .img12{
+     float: left;
+     width: 150;
+    height: 140;
+    background: gray;
+ }
+ .has_margin1 {
+     margin: 5px 5px 5px 10px;
+ }
+ .clear1 {
+     clear: both;
+ }
+
+ .column2 .top1{
+      float: left;
+     width: 150;
+    height: 220;
+    background: black;
+
+ }
+ .column2 .top2 {
+    float: left;
+     width: 150;
+    height: 150;
+    background:yellowgreen; 
+
+ }
+
+ .column2 .top3{
+      float: left;
+     width: 150;
+    height: 150;
+    background:darkslateblue 
+ }
+  .column2 .top4{
+      float: left;
+     width: 150;
+    height: 300;
+    background:red
+ }
+  .column2 .top5{
+      float: left;
+     width: 150;
+    height: 100;
+    background: pink;
+ }
+  .column2 .top6{
+      float: left;
+     width: 150;
+    height: 150;
+    background:sienna;
+ }
+  .column2 .top7{
+      float: left;
+     width: 150;
+    height: 150;
+    background:red
+ }
+  .column2 .top8{
+      float: left;
+     width: 150;
+    height: 150;
+    background:blueviolet
+ } .column2 .top9{
+      float: left;
+     width: 150;
+    height: 150;
+    background: black;
+
+ }
+  .column2 .top10{
+      float: left;
+     width: 150;
+    height: 150;
+    background:red
+
+ }
+  .column2 .top11{
+      float: left;
+     width: 150;
+    height: 150;
+    background:aqua
+ }
+ .has_margin2 {
+     margin: 5px 5px 5px 5px;
+ }
+
+ .clear2 {
+     clear: both;
+ }
+ .column3 .book1{
+    float:right;
+     width: 150;
+    height: 350;
+    background:blueviolet ;
+ }
+ .column3 .book2{
+    float:right;
+     width: 150;
+    height: 80;
+    background:yellow;
+ }
+  .column3 .book3{
+    float:right;
+     width: 150;
+    height: 200;
+    background:darkblue;
+ }
+     .column3 .book4{
+     float:right;
+     width: 150;
+    height: 150;
+    background:blue;
+ }
+  .column3 .book5{
+     float:right;
+     width: 120;
+    height: 120;
+    background:purple;
+ }
+ .column3  .boks6{
+     float:right;
+     width: 120;
+    height: 120;
+    background:grey
+ }
+ .column3  .boks7{
+     float:right;
+     width: 120;
+    height: 120;
+    background:dodgerblue;
+ }
+ .column3  .boks8{
+     float:right;
+     width: 120;
+    height: 120;
+    background:red ;
+ }
+ .column3  .boks9{
+     float:right;
+     width: 150;
+    height: 150;
+ }
+.column3  .boks10{
+     float:right;
+     width: 120;
+    height: 120;
+    background:yellowgreen ;
+}
+.column3  .boks11{
+     float:right;
+     width: 120;
+    height: 120;
+    background:red ;
+}
+    .has_margin3 {
+     margin: 5px 10px 5px 5px;
+ }
+
+ .clear3 {
+     clear: both;
+ }
+ 
+
+     
+     
+     
+    
+
+
+
+ 
+
+
+
+
+ 
